@@ -1,0 +1,1 @@
+Sistema de Gestión de Pedidos y Stock de una Pizzería en este caso llamada Lumpi, Esta desarrollado en arquitectura de capas, BE, BLL, Servicios, DAL, GUI, persistencia de datos en SQL Server, y posee instalador desarrollado en Advanced Installer
