@@ -1,0 +1,59 @@
+{
+    "label": {
+        "lblCantidad": "New Quantity:",
+        "lblDescripcion": "Description:",
+        "lblOrdenes": "Purchase Orders",
+        "lblRecepciones": "Goods Receptions"
+    },
+    "button": {
+        "btnPreRegistrar": "PreRegister Supplier",
+        "btnSalir": "Exit",
+        "btnAgregar": "Add",
+        "btnSolicitado": "Requested",
+        "btnEliminar": "Delete"
+    },
+    "mensaje": {
+        "recibido": "Goods received successfully.",
+        "seleccionVacia": "No product selected.",
+        "camposVacios": "Fields cannot be empty.",
+        "yaSeAgrego": "The product has already been added.",
+        "fecha": "Date and Time:",
+        "completeDatos": "Complete the Supplier's details to register it.",
+        "noHaySolicitud": "Select a request.",
+        "seCompletaronDatos": "Supplier details completed successfully.",
+        "seGuardoLaOrden": "Order generated successfully.",
+        "solicitado": "Budget request generated successfully.",
+        "seguroEliminarOrden": "Are you sure you want to delete the order?",
+        "seguroEliminarSolicitud": "Are you sure you want to delete the request?",
+        "eliminadoOrden": "Order deleted successfully.",
+        "eliminadoSolicitud": "Request deleted successfully."
+    },
+    "alerta": "Alert",
+    "messagebox": {
+        "button": {
+            "aceptar": "OK",
+            "cancelar": "Cancel"
+        }
+    },
+    "datagridview": {
+        "columna": {
+            "codigo": "ProductCode",
+            "cuit": "TaxID",
+            "nombre": "Name",
+            "telefono": "Phone",
+            "codigoRecep": "ReceptionCode",
+            "estado": "Status",
+            "mail": "Email",
+            "fecha": "Date",
+            "producto": "Product",
+            "proveedor": "Supplier",
+            "precioCompra": "Price per Unit",
+            "cantidad": "Quantity",
+            "medida": "Unit",
+            "pago": "Paid",
+            "total": "Total",
+            "descripcion": "Description",
+            "direccion": "Address"
+        }
+    }
+}

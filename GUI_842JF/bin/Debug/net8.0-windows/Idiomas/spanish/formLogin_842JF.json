@@ -1,0 +1,41 @@
+{
+    "label": {
+        "lblUsuario": "Usuario:",
+        "lblContrasena": "Contraseña:",
+        "usuarios": "Usuarios",
+        "eventoLogin": "Iniciar Sesión"
+    },
+    "button": {
+        "btnIngresar": "Ingresar",
+        "btnCancelar": "Cancelar"
+    },
+    "checkbox": {
+        "chkVerContrasena": "Mostrar Contraseña"
+    },
+    "mensaje": {
+        "logueado": "Ya hay una sesión iniciada",
+        "bloquear": "Se bloqueó el usuario:",
+        "bloqueado": "Usuario bloqueado",
+        "desactivado":  "Usuario desactivado"
+
+    },
+
+    "messagebox": {
+        "titulo": {
+            "Error": "Error"
+        },
+        "mensaje": {
+            "iniciandoSesion": "Iniciando Sesión...",
+            "invalid_username": "Usuario no encontrado",
+            "invalid_password": "Contraseña incorrecta",
+            "user_bloqued": "Usuario bloqueado",
+            "user_disabled": "Usuario deshabilitado",
+            "inconsistenciaBD": "Error en la Base de Datos no se puede utilizar el sistema, avise al administrador."
+        },
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+
+    }
+}

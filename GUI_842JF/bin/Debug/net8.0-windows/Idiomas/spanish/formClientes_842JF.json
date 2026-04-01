@@ -1,0 +1,67 @@
+{
+    "label": {
+        "lblDNI": "DNI",
+        "lblNombre": "Nombre:",
+        "lblApellido": "Apellido:",
+        "lblTelefono": "Teléfono",
+        "lblMail": "Mail",
+        "lblMensaje": "Mensaje"
+    },
+
+    "button": {
+        "btnCrear": "Añadir",
+        "btnModificar": "Modificar",
+        "btnEliminar": "Eliminar",
+        "btnAplicar": "Aplicar",
+        "btnCancelar": "Cancelar",
+        "btnSalir": "Salir",
+        "btnSerializar": "Serializar",
+        "btnDeserializar": "Des-Serializar",
+        "btnRefrescar": "Refrescar Grilla con BD",
+        "btnEncriptado": "Mail Encriptado",
+        "btnDesencriptado": "Mail Desencriptado"
+    },
+
+    "textbox": {
+        "modo": {
+            "consulta": "Modo Consulta.",
+            "crear": "Modo Añadir Usuario.",
+            "modificar": "Modo Modificar Usuario.",
+            "eliminar": "Modo Eliminar Usuario."
+        }
+    },
+
+    "datagridview": {
+        "columna": {
+            "DNI": "DNI",
+            "nombre": "Nombre",
+            "apellido": "Apellido",
+            "usuario": "Usuario",
+            "telefono": "Teléfono",
+            "mail": "Mail",
+            "activo": "Activo"
+        }
+    },
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "alerta": "Alerta",
+    "mensaje": {
+        "dniNoValido": "DNI inválido.",
+        "dniRepetido": "DNI Repetido.",
+        "camposVacios": "Son obligatorios todos los campos.",
+        "digitos": "No puede haber dígitos ni en el nombre ni en el apellido",
+        "letrasTelefono": "No puede haber letras en el teléfono",
+        "mailInvalido": "Mail inválido",
+        "mailRepetido": "Mail repetido",
+        "seleccionVacia": "No hay nada seleccionado.",
+        "seguroEliminar": "Seguro desea eliminar al cliente?",
+        "eliminado": "Se eliminó el usuario correctamente.",
+        "exitoXML": "Se serializo correctamente.",
+        "listaVacia":  "No hay clientes cargados."
+    }
+}

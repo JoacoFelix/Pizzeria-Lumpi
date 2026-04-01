@@ -1,0 +1,79 @@
+{
+    "menu": {
+        "sesion": {
+            "texto": "Session",
+            "items": {
+                "iniciarSesion": "Log In",
+                "cambiarContra": "Change Password",
+                "cerrarSesion": "Log Out",
+                "cambiarIdioma": "Change Language",
+                "español": "Spanish",
+                "ingles": "English"
+            }
+        },
+        "admin": {
+            "texto": "Admin",
+            "items": {
+                "usuarios": "Users",
+                "perfiles": "Profiles",
+                "familias": "Families",
+                "bitacoraEventos": "Event Log"
+            }
+        },
+        "maestros": {
+            "texto": "Masters",
+            "items": {
+                "clientes": "Clients",
+                "proveedores": "Suppliers",
+                "productosC": "Products_C",
+                "productos": "Products"
+            }
+        },
+        "ventas": {
+            "texto": "Sales",
+            "items": {
+                "pedido": "Order",
+                "generarFac": "Generate Invoice"
+            }
+        },
+        "compras": {
+            "texto": "Purchases",
+            "items": {
+                "solicitar": "Request Quote",
+                "orden": "Generate Purchase Order",
+                "recepcion": "Goods Reception"
+            }
+        },
+        "reportes": {
+            "texto": "Reports",
+            "items": {
+                "facturas": "Invoices",
+                "ordenes": "Purchase Orders",
+                "inteligente": "Smart Report"
+            }
+        },
+        "ayuda": {
+            "texto": "Help",
+            "items": {
+
+            }
+        }
+    },
+    "label": {
+        "sesionNoIniciada": "[Session not started]",
+        "usuario": "User"
+    },
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    },
+    "mensaje": {
+        "sesionNoIniciada": "No session started",
+        "alerta": "Alert",
+        "seguro": "Are you sure you want to log out?",
+        "yaEspanol": "Already in Spanish.",
+        "yaIngles": "Already in English."
+    }
+}

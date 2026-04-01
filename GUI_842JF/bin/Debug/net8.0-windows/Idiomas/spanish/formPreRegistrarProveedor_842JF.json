@@ -1,0 +1,31 @@
+{
+    "label": {
+        "lblCUIT": "CUIT:",
+        "lblNombre": "Nombre:",
+        "lblProductos": "Productos:"
+    },
+    "button": {
+        "btnGuardar": "PreRegistrar",
+        "btnSalir": "Salir"
+    },
+
+    "mensaje": {
+        "cuitNoValido": "CUIT inválido.",
+        "cuitRepetido": "CUIT repetido.",
+        "productosVacios": "No hay ningun producto seleccionado.",
+        "digitos": "No puede haber dígitos ni en el nombre ni en el apellido.",
+        "nombreRepetido": "Nombre repetido",
+        "nombreInvalido": "Nombre inválido",
+        "preRegistrado": "Proveedor PreRegistrado con éxito.",
+        "clienteVacio": "No hay cliente seleccionado.",
+        "noHayCliente": "No hay ningun cliente"
+    },
+    "alerta": "Alerta",
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    }
+}

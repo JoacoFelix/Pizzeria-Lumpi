@@ -1,0 +1,33 @@
+{
+    "label": {
+        "lblDNI": "DNI:",
+        "lblNombre": "First Name:",
+        "lblApellido": "Last Name:",
+        "lblMail": "Email:",
+        "lblTelefono": "Phone:"
+    },
+    "button": {
+        "btnGuardar": "Save",
+        "btnCancelar": "Cancel"
+    },
+
+    "mensaje": {
+        "dniInvalido": "Invalid DNI.",
+        "dniRepetido": "Duplicate DNI.",
+        "camposVacios": "All fields are required.",
+        "digitos": "Name and last name cannot contain digits.",
+        "mailRepetido": "Duplicate email.",
+        "mailInvalido": "Invalid email.",
+        "registrado": "Client successfully registered.",
+        "clienteVacio": "No client selected.",
+        "noHayCliente": "No client available."
+    },
+    "alerta": "Alert",
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    }
+}

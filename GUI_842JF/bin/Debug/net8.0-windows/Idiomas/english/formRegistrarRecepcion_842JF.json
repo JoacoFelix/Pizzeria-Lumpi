@@ -1,0 +1,50 @@
+{
+    "label": {
+        "lblCantidad": "New Quantity:",
+        "lblDescripcion": "Description:",
+        "lblOrdenes": "Purchase Orders",
+        "lblRecepciones": "Goods Receptions"
+    },
+    "button": {
+        "btnRegistrar": "Register Reception",
+        "btnSalir": "Exit",
+        "btnTodoOk": "All Good"
+    },
+    "mensaje": {
+        "recibido": "Goods received successfully.",
+        "seleccionVacia": "No order selected.",
+        "camposVacios": "Fields cannot be empty.",
+        "yaPaga": "The selected order is already paid.",
+        "fecha": "Date and Time:",
+        "completeDatos": "Complete the supplier information to proceed with registration.",
+        "noHaySolicitud": "Please select a request.",
+        "seCompletaronDatos": "Supplier information completed successfully.",
+        "seGuardoLaOrden": "Order generated successfully.",
+        "yaHayOrden": "A purchase order for this product and supplier has already been generated.",
+        "seguroEliminarOrden": "Are you sure you want to delete the order?",
+        "seguroEliminarSolicitud": "Are you sure you want to delete the request?",
+        "eliminadoOrden": "Order deleted successfully.",
+        "eliminadoSolicitud": "Request deleted successfully."
+    },
+    "alerta": "Alert",
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    },
+    "datagridview": {
+        "columna": {
+            "codigoOrd": "Order Code",
+            "codigoRecep": "Reception Code",
+            "fecha": "Date",
+            "producto": "Product",
+            "proveedor": "Supplier",
+            "precioUnitario": "Price per Unit",
+            "cantidad": "Quantity",
+            "pago": "Paid",
+            "total": "Total",
+            "descripcion": "Description"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "label": {
+        "lblInconsistencia": "INCONSISTENCIA EN LA BD",
+        "lblTablas": "Tabla/s Alterada/s:"
+    },
+
+    "button": {
+        "btnRecalcular": "Recalcular DV",
+        "btnRestore": "Restore",
+        "btnSalir": "Salir"
+    },
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "alerta": "Alerta",
+    "mensaje": {
+        "selVaciaRes": "No hay ruta especificada.",
+        "exitoRestore": "Se realizó el restore correctamente.",
+        "errorRestore": "No se pudo realizar el restore debido a un error.",
+        "seRecalculo": "Se recalculo el dígito verificador correctamente.",
+        "noSeReparo": "La inconsistencia no se reparo, cerrando sesión..."
+    }
+}

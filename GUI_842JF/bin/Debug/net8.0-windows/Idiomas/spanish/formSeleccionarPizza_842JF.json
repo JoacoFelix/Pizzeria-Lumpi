@@ -1,0 +1,18 @@
+{
+    "label": {
+        "lblMuzza": "Muzzarella",
+        "lblJamon": "Jamón",
+        "lblJyM": "Jamón y Morrón",
+        "lblFuga": "Fugazzetta",
+        "lblJCyR": "Jamón Crudo y Rúcula",
+        "lblEspecial": "Especial",
+        "lblPrecio": "Precio:"
+    },
+    "button": {
+        "btnAnadir": "Añadir",
+        "btnGuardar": "Guardar",
+        "btnCancelar": "Cancelar",
+        "btnBorrar": "Borrar"
+    },
+    "mensaje": "No hay nada seleccionado."
+}

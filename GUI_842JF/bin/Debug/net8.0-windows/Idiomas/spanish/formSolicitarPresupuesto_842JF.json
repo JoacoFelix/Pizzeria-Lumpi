@@ -1,0 +1,59 @@
+{
+    "label": {
+        "lblCantidad": "Nueva Cantidad:",
+        "lblDescripcion": "Descripción:",
+        "lblOrdenes": "Ordenes de compra",
+        "lblRecepciones": "Recepciones de Mercadería"
+    },
+    "button": {
+        "btnPreRegistrar": "PreRegistrar Proveedor",
+        "btnSalir": "Salir",
+        "btnAgregar": "Agregar",
+        "btnSolicitado": "Solicitado",
+        "btnEliminar": "Eliminar"
+    },
+    "mensaje": {
+        "recibido": "Se recibió la merfcadería correctamente.",
+        "seleccionVacia": "No hay ningun producto seleccionado.",
+        "camposVacios": "Los campos no puieden estar vacios",
+        "yaSeAgrego": "El producto ya se agrego.",
+        "fecha": "Fecha y Hora:",
+        "completeDatos": "Complete los datos del Proveedor para poder registrarlo.",
+        "noHaySolicitud": "Seleccione una solicitud.",
+        "seCompletaronDatos": "Se completaron los datos del Proveedor correctamente.",
+        "seGuardoLaOrden": "Orden Generada correctamente.",
+        "solicitado": "Se generó la solicitud de presupuesto correctamente.",
+        "seguroEliminarOrden": "Seguro desea eliminar la orden?",
+        "seguroEliminarSolicitud": "Seguro desea eliminar la solicitud?",
+        "eliminadoOrden": "Se elimin� la orden correctamente.",
+        "eliminadoSolicitud": "Se eliminó la solicitud correctamente."
+    },
+    "alerta": "Alerta",
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "datagridview": {
+        "columna": {
+            "codigo": "codProducto",
+            "cuit": "CUIT",
+            "nombre": "Nombre",
+            "telefono": "Telefono",
+            "codigoRecep": "codRecepcion",
+            "estado": "Estado",
+            "mail": "Mail",
+            "fecha": "Fecha",
+            "producto": "Producto",
+            "proveedor": "Proveedor",
+            "precioCompra": "Precio por Medida",
+            "cantidad": "Cantidad",
+            "medida": "Medida",
+            "pago": "Paga",
+            "total": "Total",
+            "descripcion": "Descripcion",
+            "direccion": "Direccion"
+        }
+    }
+}

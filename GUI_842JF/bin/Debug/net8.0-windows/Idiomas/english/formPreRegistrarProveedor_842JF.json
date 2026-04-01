@@ -1,0 +1,29 @@
+{
+    "label": {
+        "lblCUIT": "Tax ID:",
+        "lblNombre": "Name:",
+        "lblProductos": "Products:"
+    },
+    "button": {
+        "btnGuardar": "PreRegister",
+        "btnSalir": "Exit"
+    },
+    "mensaje": {
+        "cuitNoValido": "Invalid Tax ID.",
+        "cuitRepetido": "Duplicate Tax ID.",
+        "productosVacios": "No products selected.",
+        "digitos": "Name and surname cannot contain digits.",
+        "nombreRepetido": "Duplicate Name.",
+        "nombreInvalido": "Invalid Name.",
+        "preRegistrado": "Supplier pre-registered successfully.",
+        "clienteVacio": "No client selected.",
+        "noHayCliente": "No client found."
+    },
+    "alerta": "Alert",
+    "messagebox": {
+        "button": {
+            "aceptar": "OK",
+            "cancelar": "Cancel"
+        }
+    }
+}

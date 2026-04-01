@@ -1,0 +1,198 @@
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.exe
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.deps.json
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.runtimeconfig.json
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\BouncyCastle.Cryptography.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Practices.ServiceLocation.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\itextsharp.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Data.SqlClient.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\XAct.Core.PCL.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\sni.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\BE_842JF.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\BLL_842JF.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\DAL_842JF.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Servicios_842JF.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\BE_842JF.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\BLL_842JF.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Servicios_842JF.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\DAL_842JF.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.csproj.AssemblyReference.cache
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.FormBackUpRestore_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formBitacoraCambiosProducto_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formBitacoraEventos_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.FormCambiarContraseña_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formClientes_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formCobrar_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formFacturas_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formFamilias_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formGenerarFactura_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formGenerarOrdenDeCompra_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.FormLogin_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.FormMenu_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formPedido_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formPerfiles_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formPreRegistrarProveedor_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.FormPrincipal_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formProductos_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formRealizarPago_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formRegistrarCliente_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formRegistrarProveedor_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formRegistrarRecepcion_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formSeleccionarPizza_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formSolicitarPresupuesto_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formUsuarios_842JF.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.Properties.Resources.resources
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.csproj.GenerateResource.cache
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.AssemblyInfoInputs.cache
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.AssemblyInfo.cs
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.csproj.CoreCompileInputs.cache
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.csproj.Up2Date
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\refint\SistemaFelixJoaquin.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.genruntimeconfig.cache
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\ref\SistemaFelixJoaquin.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formRepararInconsistencia_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.exe
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.deps.json
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.runtimeconfig.json
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Azure.Core.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Azure.Identity.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\BouncyCastle.Cryptography.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Practices.ServiceLocation.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\itextsharp.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Bcl.Cryptography.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Data.SqlClient.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.Options.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.Primitives.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Identity.Client.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Logging.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Protocols.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Tokens.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.SqlServer.Server.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.ClientModel.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Configuration.ConfigurationManager.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Data.SqlClient.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Diagnostics.EventLog.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Memory.Data.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\XAct.Core.PCL.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\cs\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\de\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\es\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\fr\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\it\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\ja\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\ko\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\pl\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\ru\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\tr\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Data.SqlClient.SNI.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\sni.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\BE_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\BLL_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\DAL_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Servicios_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\BE_842JF.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\BLL_842JF.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Servicios_842JF.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\DAL_842JF.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.csproj.AssemblyReference.cache
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.FormBackUpRestore_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formBitacoraCambiosProducto_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formBitacoraEventos_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.FormCambiarContraseña_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formClientes_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formCobrar_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formFacturas_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formFamilias_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formGenerarFactura_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formGenerarOrdenDeCompra_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.FormLogin_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.FormMenu_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formPedido_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formPerfiles_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formPreRegistrarProveedor_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.FormPrincipal_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formProductos_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formRealizarPago_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formRegistrarCliente_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formRegistrarProveedor_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formRegistrarRecepcion_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formRepararInconsistencia_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formSeleccionarPizza_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formSolicitarPresupuesto_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formUsuarios_842JF.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.Properties.Resources.resources
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.csproj.GenerateResource.cache
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.AssemblyInfoInputs.cache
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.AssemblyInfo.cs
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.csproj.CoreCompileInputs.cache
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.csproj.Up2Date
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\refint\SistemaFelixJoaquin.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\SistemaFelixJoaquin.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.genruntimeconfig.cache
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\ref\SistemaFelixJoaquin.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Azure.Core.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Azure.Identity.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Bcl.Cryptography.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.Options.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Identity.Client.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.SqlServer.Server.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.ClientModel.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Diagnostics.EventLog.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Memory.Data.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Security.Cryptography.Pkcs.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\System.Text.Json.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\WinForms.DataVisualization.Utilities.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\WinForms.DataVisualization.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\bin\Release\net8.0-windows\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\GUI_842JF\obj\Release\net8.0-windows\win-x64\GUI_842JF.formOrdenesDeCompra_842JF.resources

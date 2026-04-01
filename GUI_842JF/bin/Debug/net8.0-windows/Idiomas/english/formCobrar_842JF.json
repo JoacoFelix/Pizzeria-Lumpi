@@ -1,0 +1,33 @@
+{
+    "label": {
+        "lblNumero": "Card Number:",
+        "lblNombre": "Cardholder Name:",
+        "lblCvv": "Security Code:",
+        "lblVencimiento": "Expiration Date:",
+        "lblPagaCon": "Pays with:"
+    },
+    "button": {
+        "btnConfirmar": "Confirm",
+        "btnEfectivo": "Paid in Cash"
+    },
+
+    "mensaje": {
+        "montoInvalido": "Invalid amount.",
+        "montoBajo": "The amount must be greater than the order price.",
+        "vuelto": "Change is:",
+        "pagado": "Order paid.",
+        "noHay": "No order to charge",
+        "tarjetaInvalida": "Invalid card format.",
+        "digitos": "Name cannot contain digits.",
+        "cvvInvalido": "Invalid code",
+        "vencida": "Expired card"
+    },
+    "alerta": "Alert",
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    }
+}

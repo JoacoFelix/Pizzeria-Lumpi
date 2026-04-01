@@ -1,0 +1,65 @@
+{
+    "label": {
+        "lblNombre": "Name:",
+        "lblDescripcion": "Description:",
+        "lblMedida": "Unit:",
+        "lblCantidad": "Quantity:",
+        "lblPrecioCompra": "Purchase Price:",
+        "lblMensaje": "Message"
+    },
+
+    "button": {
+        "btnCrear": "Add",
+        "btnModificar": "Modify",
+        "btnEliminar": "Delete",
+        "btnAplicar": "Apply",
+        "btnCancelar": "Cancel",
+        "btnSalir": "Exit"
+    },
+
+    "textbox": {
+        "modo": {
+            "consulta": "View Mode.",
+            "crear": "Add Product Mode.",
+            "modificar": "Modify Product Mode.",
+            "eliminar": "Delete Product Mode."
+        }
+    },
+
+    "datagridview": {
+        "columna": {
+            "codProducto": "Product Code",
+            "nombre": "Name",
+            "descripcion": "Description",
+            "precioCompra": "Purchase Price",
+            "medida": "Unit",
+            "cantidad": "Quantity",
+            "activo": "Active"
+        }
+    },
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    },
+
+    "alerta": "Alert",
+
+    "mensaje": {
+        "asignadoAPizza": "The product is assigned to a pizza, it cannot be modified or deleted.",
+        "nombreRepetido": "Name already exists.",
+        "camposVacios": "All fields are required.",
+        "digitos": "The name and description cannot contain digits.",
+        "productoEnOrden": "The product is assigned to a purchase order, it cannot be modified or deleted.",
+        "productoEnSolicitud": "The product is assigned to a budget request, it cannot be modified or deleted.",
+        "seleccionVacia": "Nothing selected.",
+        "seguroEliminar": "Are you sure you want to delete the product?",
+        "eliminado": "The product was successfully deleted.",
+        "soloNumeros": "Only numbers are allowed in quantity and price.",
+        "agreguePrecio": "Add the price.",
+        "noHayCantidad": "Quantity cannot be 0 if there is a price.",
+        "noModificaNada": "Nothing is being changed."
+    }
+}

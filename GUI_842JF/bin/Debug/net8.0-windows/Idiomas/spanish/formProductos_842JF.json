@@ -1,0 +1,63 @@
+{
+    "label": {
+        "lblNombre": "Nombre:",
+        "lblDescripcion": "Descripción:",
+        "lblMedida": "Medida:",
+        "lblCantidad": "Cantidad:",
+        "lblPrecioCompra": "Precio de Compra:",
+        "lblMensaje": "Mensaje"
+    },
+
+    "button": {
+        "btnCrear": "Añadir",
+        "btnModificar": "Modificar",
+        "btnEliminar": "Eliminar",
+        "btnAplicar": "Aplicar",
+        "btnCancelar": "Cancelar",
+        "btnSalir": "Salir"
+    },
+
+    "textbox": {
+        "modo": {
+            "consulta": "Modo Consulta.",
+            "crear": "Modo Añadir Producto.",
+            "modificar": "Modo Modificar Producto.",
+            "eliminar": "Modo Eliminar Producto."
+        }
+    },
+
+    "datagridview": {
+        "columna": {
+            "codProducto": "CodProducto",
+            "nombre": "Nombre",
+            "descripcion": "Descripcion",
+            "precioCompra": "Precio Compra",
+            "medida": "Medida",
+            "cantidad": "Cantidad",
+            "activo": "Activo"
+        }
+    },
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "alerta": "Alerta",
+    "mensaje": {
+        "asignadoAPizza": "El producto se encuentra asignado a una pizza, no se puede modificar ni eliminar.",
+        "nombreRepetido": "Nombre Repetido.",
+        "camposVacios": "Son obligatorios todos los campos.",
+        "digitos": "No puede haber dígitos ni en el nombre ni en la descripción",
+        "productoEnOrden": "El producto se encuentra asignado a una orden de compra, no se puede modificar ni eliminar.",
+        "productoEnSolicitud": "El producto se encuentra asignado a una solicitud de presupuesto, no se puede modificar ni eliminar.",
+        "seleccionVacia": "No hay nada seleccionado.",
+        "seguroEliminar": "Seguro desea eliminar el producto?",
+        "eliminado": "Se eliminó el producto correctamente.",
+        "soloNumeros": "Solo puede haber números en la cantidad y el precio.",
+        "agreguePrecio": "Agregue el precio.",
+        "noHayCantidad": "La cantidad no puede ser 0 si hay precio.",
+        "noModificaNada": "No se esta modificando nada."
+    }
+}

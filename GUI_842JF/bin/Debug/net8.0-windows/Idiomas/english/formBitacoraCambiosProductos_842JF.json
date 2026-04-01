@@ -1,0 +1,92 @@
+{
+    "label": {
+        "nombre": "Name:",
+        "codProducto": "Product Code:",
+        "fechaInicio": "Start Date:",
+        "fechaFin": "End Date:"
+    },
+    "button": {
+        "limpiar": "Clear",
+        "aplicar": "Apply",
+        "fecha": "With Date",
+        "salir": "Exit",
+        "activar": "Activate"
+    },
+    "mensaje": {
+        "logueado": "A session is already active",
+        "bloquear": "User blocked:",
+        "activado": "The record has been activated.",
+        "desactivado": "User deactivated",
+        "grillaVacia": "There is nothing in the grid",
+        "fechamal": "Start date cannot be later than end date",
+        "noHayCambio": "There is no change matching the filters.",
+        "yaActivo": "This record is already active."
+    },
+    "datagridview": {
+        "columna": {
+            "codProd": "ProductCode",
+            "fecha": "Date",
+            "nombre": "Name",
+            "cantidad": "Quantity",
+            "descripcion": "Description",
+            "activo": "Active",
+            "disponible": "Available",
+            "precioCompra": "Purchase Price",
+            "medida": "Unit"
+        }
+    },
+    "eventos": {
+        "login": "Login",
+        "logout": "Logout",
+        "generarFactura": "Generate Invoice",
+        "registrarCliente": "Register Client",
+        "eliminarCliente": "Delete Client",
+        "modificarCliente": "Modify Client",
+        "registrarUsuario": "Register User",
+        "modificarUsuario": "Modify User",
+        "crearPerfil": "Generate Profile",
+        "crearFamilia": "Generate Family",
+        "generarOrdenCompra": "Generate Purchase Order",
+        "eliminarSolicitud": "Delete Budget Request",
+        "pagarOrden": "Pay Purchase Order",
+        "eliminarOrden": "Delete Purchase Order",
+        "preRegistrarProveedor": "PreRegister Supplier",
+        "agregrarProductoAProv": "Add Product to Supplier",
+        "eliminarProductoAProv": "Remove Product from Supplier",
+        "registrarRecepcion": "Register Goods Reception",
+        "generarSolicitudPresupuesto": "Generate Budget Request",
+        "registrarProveedor": "Register Supplier",
+        "eliminarProveedor": "Delete Supplier",
+        "modificarProveedor": "Modify Supplier",
+        "registrarProducto": "Register Product",
+        "eliminarProducto": "Delete Product",
+        "modificarProducto": "Modify Product",
+        "eliminarFamilia": "Delete Family",
+        "eliminarPerfil": "Delete Profile",
+        "backUp": "Backup",
+        "restore": "Restore"
+    },
+    "modulos": {
+        "usuarios": "Users",
+        "maestros": "Masters",
+        "admin": "Admin",
+        "ventas": "Sales",
+        "compras": "Purchases"
+    },
+    "messagebox": {
+        "titulo": {
+            "Error": "Error"
+        },
+        "mensaje": {
+            "iniciandoSesion": "Starting Session...",
+            "invalid_username": "User not found",
+            "invalid_password": "Incorrect password",
+            "user_bloqued": "User blocked",
+            "user_disabled": "User disabled"
+        },
+        "button": {
+            "aceptar": "OK",
+            "cancelar": "Cancel"
+        }
+    }
+}

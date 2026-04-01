@@ -1,0 +1,50 @@
+{
+    "label": {
+        "lblCantidad": "Nueva Cantidad:",
+        "lblDescripcion": "Descripción:",
+        "lblOrdenes": "Ordenes de compra",
+        "lblRecepciones": "Recepciones de Mercadería"
+    },
+    "button": {
+        "btnRegistrar": "Registrar Recepción",
+        "btnSalir": "Salir",
+        "btnTodoOk": "Todo Ok"
+    },
+    "mensaje": {
+        "recibido": "Se recibió la merfcadería correctamente.",
+        "seleccionVacia": "No hay ninguna orden seleccionada.",
+        "camposVacios": "Los campos no puieden estar vacios",
+        "yaPaga": "La orden seleccionada ya esta paga.",
+        "fecha": "Fecha y Hora:",
+        "completeDatos": "Complete los datos del Proveedor para poder registrarlo.",
+        "noHaySolicitud": "Seleccione una solicitud.",
+        "seCompletaronDatos": "Se completaron los datos del Proveedor correctamente.",
+        "seGuardoLaOrden": "Orden Generada correctamente.",
+        "yaHayOrden": "Ya se genero una orden de compra de este producto a este proveedor.",
+        "seguroEliminarOrden": "Seguro desea eliminar la orden?",
+        "seguroEliminarSolicitud": "Seguro desea eliminar la solicitud?",
+        "eliminadoOrden": "Se elimin� la orden correctamente.",
+        "eliminadoSolicitud": "Se eliminó la solicitud correctamente."
+    },
+    "alerta": "Alerta",
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "datagridview": {
+        "columna": {
+            "codigoOrd": "codOrden",
+            "codigoRecep": "codRecepcion",
+            "fecha": "Fecha",
+            "producto": "Producto",
+            "proveedor": "Proveedor",
+            "precioUnitario": "Precio por Medida",
+            "cantidad": "Cantidad",
+            "pago": "Paga",
+            "total": "Total",
+            "descripcion": "Descripcion"
+        }
+    }
+}

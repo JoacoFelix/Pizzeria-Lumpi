@@ -1,0 +1,18 @@
+{
+    "label": {
+        "facturas": "Invoices"
+    },
+    "button": {
+        "salir": "Exit"
+    },
+
+    "datagridview": {
+        "columna": {
+            "numero": "Invoice Number",
+            "fecha": "Date and Time",
+            "medioDePago": "Status",
+            "pedido": "Order Number",
+            "total": "Total"
+        }
+    }
+}

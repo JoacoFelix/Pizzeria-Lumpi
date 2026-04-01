@@ -1,0 +1,79 @@
+{
+    "label": {
+        "lblDNI": "ID",
+        "lblApellido": "Last Name:",
+        "lblNombre": "First Name:",
+        "lblRol": "Role",
+        "lblMail": "Email",
+        "lblMensaje": "Message"
+    },
+
+    "radio": {
+        "rdoActivos": "Active",
+        "rdoTodos": "All"
+    },
+    "combo": {
+        "encargado": "Manager",
+        "admin": "Admin",
+        "cajero": "Cashier"
+    },
+
+    "button": {
+        "btnCrear": "Create",
+        "btnDesbloquear": "Unlock",
+        "btnModificar": "Edit",
+        "btnActivarDesactivar": "Activate/Deactivate",
+        "btnAplicar": "Apply",
+        "btnCancelar": "Cancel",
+        "btnSalir": "Exit"
+    },
+
+    "textbox": {
+        "modo": {
+            "consulta": "View Mode.",
+            "crear": "Create User Mode.",
+            "desbloquear": "Unlock User Mode.",
+            "modificar": "Edit User Mode.",
+            "activarDesactivar": "Activate/Deactivate User Mode."
+        }
+    },
+
+    "datagridview": {
+        "columna": {
+            "DNI": "ID",
+            "nombre": "First Name",
+            "apellido": "Last Name",
+            "usuario": "Username",
+            "rol": "Role",
+            "mail": "Email",
+            "activo": "Active"
+        }
+    },
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    },
+    "alerta": "Alert",
+    "mensaje": {
+        "dniNoValido": "Invalid ID.",
+        "dniRepetido": "Duplicate ID.",
+        "camposVacios": "All fields are required.",
+        "digitos": "Name and last name cannot contain digits.",
+        "mailInvalido": "Invalid email.",
+        "mailRepetido": "Duplicate email.",
+        "seleccionVacia": "Nothing selected.",
+        "usuarioNoBloqueado": "The user is not blocked.",
+        "seguroDesbloquear": "Are you sure you want to unlock the user?",
+        "desbloqueo": "User unlocked successfully.",
+        "desactivarSiMismo": "You cannot deactivate yourself.",
+        "seguroDesactivar": "Are you sure you want to deactivate the user?",
+        "desactivado": "User deactivated successfully.",
+        "seguroActivar": "Are you sure you want to activate the user?",
+        "activado": "User activated successfully.",
+        "noASiMismo": "You cannot edit yourself.",
+        "superAdmin": "You cannot make changes to a SuperAdmin."
+    }
+}

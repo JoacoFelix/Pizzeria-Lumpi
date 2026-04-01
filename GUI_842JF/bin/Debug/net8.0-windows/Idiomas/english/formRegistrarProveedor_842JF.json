@@ -1,0 +1,79 @@
+{
+    "label": {
+        "lblCUIT": "Tax ID:",
+        "lblNombre": "Name:",
+        "lblDireccion": "Address:",
+        "lblTelefono": "Phone:",
+        "lblProductos": "Products:",
+        "lblMail": "Email:",
+        "lblMensaje": "Message"
+    },
+
+    "button": {
+        "btnCrear": "Add",
+        "btnModificar": "Modify",
+        "btnEliminar": "Delete",
+        "btnAplicar": "Apply",
+        "btnCancelar": "Cancel",
+        "btnSalir": "Exit",
+        "btnAgregarProd": "Add Product",
+        "btnEliminarProd": "Remove Product"
+    },
+
+    "textbox": {
+        "modo": {
+            "consulta": "Query Mode.",
+            "crear": "Add User Mode.",
+            "modificar": "Modify User Mode.",
+            "eliminar": "Delete User Mode.",
+            "CompletarDatos": "Complete Data Mode."
+        }
+    },
+
+    "datagridview": {
+        "columna": {
+            "CUIT": "TaxID",
+            "nombre": "Name",
+            "direccion": "Address",
+            "estado": "Status",
+            "telefono": "Phone",
+            "mail": "Email",
+            "activo": "Active"
+        }
+    },
+
+    "messagebox": {
+        "button": {
+            "aceptar": "OK",
+            "cancelar": "Cancel"
+        }
+    },
+    "alerta": "Alert",
+    "mensaje": {
+        "cuitNoValido": "Invalid Tax ID.",
+        "cuitRepetido": "Duplicate Tax ID.",
+        "nombreRepetido": "Duplicate Name.",
+        "camposVacios": "All fields are required.",
+        "digitos": "Name cannot contain digits.",
+        "letrasTelefono": "Phone cannot contain letters.",
+        "mailInvalido": "Invalid email.",
+        "direccionInvalida": "Invalid address.",
+        "mailRepetido": "Duplicate email.",
+        "seleccionVacia": "Nothing selected.",
+        "seguroEliminar": "Are you sure you want to delete this supplier?",
+        "eliminado": "Supplier deleted successfully.",
+        "modificado": "Supplier modified successfully.",
+        "creado": "Supplier created successfully.",
+        "solicitudGenerada": "There is one or more budget requests generated for this supplier.",
+        "ordenGenerada": "There is one or more purchase orders generated for this supplier.",
+        "productosVacios": "No products selected.",
+        "productoRepetido": "The supplier already has this product.",
+        "productoAgregado": "Product added successfully.",
+        "productoNoEncontrado": "The supplier does not have this product.",
+        "ordenEnCurso": "There is a purchase order in progress for this supplier for this product.",
+        "solicitudRealizada": "There is a budget request in progress for this supplier for this product.",
+        "productoEliminado": "Product removed successfully.",
+        "completeDatos": "Complete the Supplier's details to register it.",
+        "seCompletaronDatos": "Supplier details completed successfully."
+    }
+}

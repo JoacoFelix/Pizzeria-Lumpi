@@ -1,0 +1,33 @@
+{
+    "label": {
+        "lblNumero": "Nro. Tarjeta:",
+        "lblNombre": "Nombre del Titular:",
+        "lblCvv": "Código de seguridad:",
+        "lblVencimiento": "Vencimiento:",
+        "lblPagaCon": "Paga con:"
+    },
+    "button": {
+        "btnConfirmar": "Confirmar",
+        "btnEfectivo":  "Pago realizado en efectivo"
+    },
+
+    "mensaje": {
+        "montoInvalido": "Monto inválido.",
+        "montoBajo": "El monto debe ser mayor al precio del pedido.",
+        "vuelto": "El vuelto es:",
+        "pagado": "Pedido pagado.",
+        "noHay": "No hay pedido para cobrar",
+        "tarjetaInvalida": "Formato de tarjeta inválido.",
+        "digitos": "No puede haber dígitos en el nombre.",
+        "cvvInvalido": "Código inválido",
+        "vencida":  "Tarjeta vencida"
+    },
+    "alerta": "Alerta",
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    }
+}

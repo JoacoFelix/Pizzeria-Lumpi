@@ -1,0 +1,41 @@
+{
+    "label": {
+        "lblClientes": "Customers",
+        "lblBuscarCliente": "Search customer by ID"
+    },
+    "button": {
+        "btnAsignar": "Assign",
+        "btnCancelar": "Cancel",
+        "btnRegistrarCliente": "Register new customer",
+        "btnSalir": "Exit",
+        "btnSeleccionar": "Select Pizzas"
+    },
+
+    "mensaje": {
+        "totSinIva": "Total without VAT:",
+        "total": "Total:",
+        "confirmar": "Confirm Order",
+        "confirmado": "Order confirmed.",
+        "cancelado": "Order canceled.",
+        "seleccionVacia": "No pizzas selected.",
+        "clienteVacio": "No customer selected.",
+        "noHayCliente": "There is no customer"
+    },
+    "datagridview": {
+        "columna": {
+            "DNI": "ID",
+            "nombre": "First Name",
+            "apellido": "Last Name",
+            "mail": "Email",
+            "telefono": "Phone"
+        }
+    },
+    "alerta": "Alert",
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    }
+}

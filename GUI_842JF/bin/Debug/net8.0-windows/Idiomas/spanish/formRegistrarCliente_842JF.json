@@ -1,0 +1,33 @@
+{
+    "label": {
+        "lblDNI": "DNI:",
+        "lblNombre": "Nombre:",
+        "lblApellido": "Apellido:",
+        "lblMail": "Mail:",
+        "lblTelefono": "Telefono:"
+    },
+    "button": {
+        "btnGuardar": "Guardar",
+        "btnCancelar": "Cancelar"
+    },
+
+    "mensaje": {
+        "dniInvalido": "DNI inválido.",
+        "dniRepetido": "DNI repetido.",
+        "camposVacios": "Son obligatorios todos los campos.",
+        "digitos": "No puede haber dígitos ni en el nombre ni en el apellido.",
+        "mailRepetido": "Mail repetido",
+        "mailInvalido": "Mail inválido",
+        "registrado": "Cliente registrado con éxito.",
+        "clienteVacio": "No hay cliente seleccionado.",
+        "noHayCliente": "No hay ningun cliente"
+    },
+    "alerta": "Alerta",
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    }
+}

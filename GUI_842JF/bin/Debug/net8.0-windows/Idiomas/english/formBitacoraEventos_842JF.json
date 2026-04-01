@@ -1,0 +1,94 @@
+{
+    "label": {
+        "nombre": "First Name:",
+        "apellido": "Last Name:",
+        "login": "Login:",
+        "fechaInicio": "Start Date:",
+        "fechaFin": "End Date:",
+        "modulo": "Module:",
+        "evento": "Event:",
+        "criticidad": "Criticality:"
+    },
+    "button": {
+        "limpiar": "Clear",
+        "aplicar": "Apply",
+        "fecha": "With Date",
+        "salir": "Exit",
+        "imprimir": "Print"
+    },
+    "mensaje": {
+        "logueado": "There is already an active session",
+        "bloquear": "The user has been blocked:",
+        "bloqueado": "User blocked",
+        "desactivado": "User disabled",
+        "grillaVacia": "There is nothing in the grid",
+        "fechamal": "The start date cannot be later than the end date",
+        "noHayEvento": "There are no events matching the filters."
+    },
+    "datagridview": {
+        "columna": {
+            "login": "Login",
+            "fechaHora": "Date & Time",
+            "modulo": "Module",
+            "evento": "Event",
+            "criticidad": "Criticality",
+            "fecha": "Date",
+            "hora": "Time",
+            "reporte": "EVENT REPORT"
+        }
+    },
+    "eventos": {
+        "login": "Log In",
+        "logout": "Log Out",
+        "generarFactura": "Generate Invoice",
+        "registrarCliente": "Register Customer",
+        "eliminarCliente": "Delete Customer",
+        "modificarCliente": "Modify Customer",
+        "registrarUsuario": "Register User",
+        "modificarUsuario": "Modify User",
+        "crearPerfil": "Create Profile",
+        "crearFamilia": "Create Family",
+        "generarOrdenCompra": "Generate Purchase Order",
+        "eliminarSolicitud": "Delete Budget Request",
+        "pagarOrden": "Pay Purchase Order",
+        "eliminarOrden": "Delete Purchase Order",
+        "preRegistrarProveedor": "Pre-Register Supplier",
+        "agregrarProductoAProv": "Add Product to Supplier",
+        "eliminarProductoAProv": "Remove Product from Supplier",
+        "registrarRecepcion": "Register Merchandise Reception",
+        "generarSolicitudPresupuesto": "Generate Budget Request",
+        "registrarProveedor": "Register Supplier",
+        "eliminarProveedor": "Delete Supplier",
+        "modificarProveedor": "Modify Supplier",
+        "registrarProducto": "Register Product",
+        "eliminarProducto": "Delete Product",
+        "modificarProducto": "Modify Product",
+        "eliminarFamilia": "Delete Family",
+        "eliminarPerfil": "Delete Profile",
+        "backUp": "Backup",
+        "restore": "Restore"
+    },
+    "modulos": {
+        "usuarios": "Users",
+        "maestros": "Masters",
+        "admin": "Admin",
+        "ventas": "Sales",
+        "compras": "Purchases"
+    },
+    "messagebox": {
+        "titulo": {
+            "Error": "Error"
+        },
+        "mensaje": {
+            "iniciandoSesion": "Starting Session...",
+            "invalid_username": "User not found",
+            "invalid_password": "Incorrect password",
+            "user_bloqued": "User blocked",
+            "user_disabled": "User disabled"
+        },
+        "button": {
+            "aceptar": "OK",
+            "cancelar": "Cancel"
+        }
+    }
+}

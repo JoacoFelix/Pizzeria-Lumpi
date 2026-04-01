@@ -1,0 +1,49 @@
+{
+    "label": {
+        "permisos": "Permissions",
+        "familias": "Families:",
+        "nombre": "Name:",
+        "descripcion": "Description",
+        "seleccionadoFamilia": "Selected Family (TreeView):",
+        "seleccionadoAAgregar": "Selected Family:"
+    },
+    "button": {
+        "generarFamilia": "Create Family",
+        "asignarPermiso": "Assign Permission",
+        "asignarFamilia": "Assign Family",
+        "eliminarFamilia": "Delete Family",
+        "eliminarHijo": "Remove Child",
+        "salir": "Exit",
+        "seleccionar": "Select"
+    },
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    },
+    "alerta": "Alert",
+    "mensaje": {
+        "nombreVacio": "The name cannot be empty.",
+        "descripcionVacia": "The description cannot be empty.",
+        "seleccionVaciaList": "No permission selected.",
+        "seleccionVaciaTree": "No family selected.",
+        "noEsFamilia": "The selected item in the tree view is not a main family.",
+        "familiaNoSeleccionada": "No family selected to add.",
+        "seguroEliminar": "Are you sure you want to delete the family?",
+        "EsFamilia": "The selected item is a main family.",
+        "noEsHijoDirecto": "The selected item is not a direct child.",
+        "seguroEliminarHijo": "Are you sure you want to remove the child?",
+        "yaContienePermiso": "The family already contains the permission.",
+        "yaAsignadaAPerfil": "Cannot assign a family already assigned to a profile.",
+        "yaExiste": "The family already exists.",
+        "mismaFamilia": "A family cannot be added to itself.",
+        "yaContienePermisosDeFamilia": "The family already contains permissions held by the family you are trying to add.",
+        "yaContieneLaFamilia": "The family already contains the family you are trying to add.",
+        "familiaJerarquia": "A family that contains the family you are trying to assign already holds permissions held by the family you are trying to add.",
+        "permisoJerarquia": "A family that contains the family to which you are trying to assign the permission already has the permission.",
+        "circular": "The family you are trying to add already contains the base family.",
+        "familiasRepetidas": "The family you are trying to add contains one or more families already present in the base family's hierarchy.",
+        "familiaVacia": "The family you want to add cannot be empty."
+    }
+}

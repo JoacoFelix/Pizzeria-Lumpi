@@ -1,0 +1,83 @@
+{
+    "menu": {
+        "sesion": {
+            "texto": "Sesión",
+            "items": {
+                "iniciarSesion": "Iniciar Sesión",
+                "cambiarContra": "Cambiar Contraseña",
+                "cerrarSesion": "Cerrar Sesión",
+                "cambiarIdioma": "Cambiar Idioma",
+                "español": "Español",
+                "ingles": "Inglés"
+            }
+        },
+        "admin": {
+            "texto": "Admin",
+            "items": {
+                "usuarios": "Usuarios",
+                "perfiles": "Perfiles",
+                "familias": "Familias",
+                "bitacoraEventos":  "Bitácora de Eventos"
+            }
+        },
+        "maestros": {
+            "texto": "Maestros",
+            "items": {
+                "clientes": "Clientes",
+                "proveedores": "Proveedores",
+                "productosC": "Productos_C",
+                "productos": "Productos"
+
+            }
+        },
+        "ventas": {
+            "texto": "Ventas",
+            "items": {
+                "pedido": "Pedido",
+                "generarFac": "Generar Factura"
+            }
+        },
+        "compras": {
+            "texto": "Compras",
+            "items": {
+                "solicitar": "Solicitar Presupuesto",
+                "orden": "Generar Orden de Compra",
+                "recepcion": "Recepción de Mercadería"
+            }
+        },
+        "reportes": {
+            "texto": "Reportes",
+            "items": {
+                "facturas": "Facturas",
+                "ordenes": "Ordenes de Compra",
+                "inteligente": "Reporte Inteligente"
+            }
+        },
+        "ayuda": {
+            "texto": "Ayuda",
+            "items": {
+
+            }
+        }
+    },
+    "label": {
+        "sesionNoIniciada": "[Sesión no iniciada]",
+        "usuario":  "Usuario"
+    },
+
+   "messagebox": {
+            "button": {
+                "aceptar": "Aceptar",
+                "cancelar": "Cancelar"
+            }
+        },
+
+
+    "mensaje": {
+        "sesionNoIniciada": "No hay sesión iniciada",
+        "alerta": "Alerta",
+        "seguro": "Seguro desea cerrar sesión?",
+        "yaEspanol": "Ya está en español.",
+        "yaIngles":  "Ya está en inglés"
+    }
+}

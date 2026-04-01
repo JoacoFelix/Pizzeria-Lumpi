@@ -1,0 +1,18 @@
+{
+    "label": {
+        "lblBkUp": "Ruta BackUp",
+        "lblRestore": "Ruta Restore"
+    },
+    "button": {
+        "aceptar": "Aceptar",
+        "salir": "Salir"
+    },
+    "msg": {
+        "exitoBackUp": "BackUp realizado con éxito",
+        "errorBkUp": "BackUp no realizado debido a un error",
+        "selVaciaBak": "Debe seleccionar una ubicación",
+        "exitoRestore": "Restore realizado con éxito",
+        "errorRestore": "Restore no realizo debido a un error",
+        "selVaciaRes": "Debe seleccionar un archivo .bak"
+    }
+}

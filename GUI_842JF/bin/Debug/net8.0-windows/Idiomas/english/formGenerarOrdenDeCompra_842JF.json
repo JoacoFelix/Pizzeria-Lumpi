@@ -1,0 +1,54 @@
+{
+    "label": {
+        "lblcantidad": "Quantity:",
+        "lblprecioMedida": "Price per Unit:",
+        "lblsolicitudes": "Budget Requests",
+        "lblordenes": "Purchase Orders"
+    },
+    "button": {
+        "btnGenerar": "Generate",
+        "btnCancelar": "Cancel",
+        "btnSalir": "Exit",
+        "btnEliminarSoli": "Delete Request",
+        "btnPagar": "Pay",
+        "btnEliminarOrden": "Delete Purchase Order",
+        "btnSoloImpagas": "Show Unpaid Only"
+    },
+    "mensaje": {
+        "seleccioneOrden": "Select an order to be able to pay.",
+        "yaPagaNoEliminar": "The order is already paid and cannot be deleted.",
+        "numero": "Number:",
+        "yaPaga": "The selected order is already paid.",
+        "fecha": "Date and Time:",
+        "completeDatos": "Complete the Supplier's details to register it.",
+        "noHaySolicitud": "Select a request.",
+        "seCompletaronDatos": "Supplier details completed successfully.",
+        "seGuardoLaOrden": "Order generated successfully.",
+        "yaHayOrden": "A purchase order for this product to this supplier has already been generated.",
+        "seguroEliminarOrden": "Are you sure you want to delete the order?",
+        "seguroEliminarSolicitud": "Are you sure you want to delete the request?",
+        "eliminadoOrden": "Order deleted successfully.",
+        "eliminadoSolicitud": "Request deleted successfully."
+    },
+    "alerta": "Alert",
+    "messagebox": {
+        "button": {
+            "aceptar": "OK",
+            "cancelar": "Cancel"
+        }
+    },
+    "datagridview": {
+        "columna": {
+            "codigoSol": "RequestCode",
+            "codigoOrd": "OrderCode",
+            "producto": "Product",
+            "fecha": "Date",
+            "proveedor": "Supplier",
+            "precioUnitario": "Price per Unit",
+            "cantidad": "Quantity",
+            "total": "Total",
+            "recibida": "Received",
+            "pago": "Paid"
+        }
+    }
+}

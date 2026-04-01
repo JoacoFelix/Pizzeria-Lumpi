@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UAI\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Trabajo de Diploma\\Proyecto\\Proyecto Ingenieria de Software\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFF5AEC-3C77-41FC-AD56-FE0E60884636}|DAL_842JF\\DAL_842JF.csproj|d:\\uai\\tercer a\u00F1o\\segundo cuatrimestre\\trabajo de diploma\\proyecto\\proyecto ingenieria de software\\dal_842jf\\idal_842jf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFF5AEC-3C77-41FC-AD56-FE0E60884636}|DAL_842JF\\DAL_842JF.csproj|solutionrelative:dal_842jf\\idal_842jf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A1CB4-8DAD-4984-9789-E52E73E1288B}|GUI_842JF\\GUI_842JF.csproj|d:\\uai\\tercer a\u00F1o\\segundo cuatrimestre\\trabajo de diploma\\proyecto\\proyecto ingenieria de software\\gui_842jf\\formusuarios_842jf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467A1CB4-8DAD-4984-9789-E52E73E1288B}|GUI_842JF\\GUI_842JF.csproj|solutionrelative:gui_842jf\\formusuarios_842jf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467A1CB4-8DAD-4984-9789-E52E73E1288B}|GUI_842JF\\GUI_842JF.csproj|D:\\UAI\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Trabajo de Diploma\\Proyecto\\Proyecto Ingenieria de Software\\gui_842jf\\formusuarios_842jf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{467A1CB4-8DAD-4984-9789-E52E73E1288B}|GUI_842JF\\GUI_842JF.csproj|solutionrelative:gui_842jf\\formusuarios_842jf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFF5AEC-3C77-41FC-AD56-FE0E60884636}|DAL_842JF\\DAL_842JF.csproj|d:\\uai\\tercer a\u00F1o\\segundo cuatrimestre\\trabajo de diploma\\proyecto\\proyecto ingenieria de software\\dal_842jf\\daldv_842jf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEFF5AEC-3C77-41FC-AD56-FE0E60884636}|DAL_842JF\\DAL_842JF.csproj|solutionrelative:dal_842jf\\daldv_842jf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDAL_842JF.cs",
+              "DocumentMoniker": "D:\\UAI\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Trabajo de Diploma\\Proyecto\\Proyecto Ingenieria de Software\\DAL_842JF\\IDAL_842JF.cs",
+              "RelativeDocumentMoniker": "DAL_842JF\\IDAL_842JF.cs",
+              "ToolTip": "D:\\UAI\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Trabajo de Diploma\\Proyecto\\Proyecto Ingenieria de Software\\DAL_842JF\\IDAL_842JF.cs",
+              "RelativeToolTip": "DAL_842JF\\IDAL_842JF.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:06:58.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formUsuarios_842JF.cs",
+              "DocumentMoniker": "D:\\UAI\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Trabajo de Diploma\\Proyecto\\Proyecto Ingenieria de Software\\GUI_842JF\\formUsuarios_842JF.cs",
+              "RelativeDocumentMoniker": "GUI_842JF\\formUsuarios_842JF.cs",
+              "ToolTip": "D:\\UAI\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Trabajo de Diploma\\Proyecto\\Proyecto Ingenieria de Software\\GUI_842JF\\formUsuarios_842JF.cs",
+              "RelativeToolTip": "GUI_842JF\\formUsuarios_842JF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:39:09.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formUsuarios_842JF.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UAI\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Trabajo de Diploma\\Proyecto\\Proyecto Ingenieria de Software\\GUI_842JF\\formUsuarios_842JF.cs",
+              "RelativeDocumentMoniker": "GUI_842JF\\formUsuarios_842JF.cs",
+              "ToolTip": "D:\\UAI\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Trabajo de Diploma\\Proyecto\\Proyecto Ingenieria de Software\\GUI_842JF\\formUsuarios_842JF.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUI_842JF\\formUsuarios_842JF.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:38:56.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DALDV_842JF.cs",
+              "DocumentMoniker": "D:\\UAI\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Trabajo de Diploma\\Proyecto\\Proyecto Ingenieria de Software\\DAL_842JF\\DALDV_842JF.cs",
+              "RelativeDocumentMoniker": "DAL_842JF\\DALDV_842JF.cs",
+              "ToolTip": "D:\\UAI\\Tercer A\u00F1o\\Segundo Cuatrimestre\\Trabajo de Diploma\\Proyecto\\Proyecto Ingenieria de Software\\DAL_842JF\\DALDV_842JF.cs",
+              "RelativeToolTip": "DAL_842JF\\DALDV_842JF.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwH8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:47:37.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+    "label": {
+        "permisos": "Permisos",
+        "familias": "Familias:",
+        "nombre": "Nombre:",
+        "descripcion": "Descripción",
+        "perfil":  "Perfiles",
+        "familiaSeleccionada": "Familia Seleccionada:",
+        "perfilSeleccionado": "Perfil Seleccionado:"
+    },
+    "button": {
+        "generarPerfil": "Generar Perfil",
+        "asignarPermiso": "Asignar Permiso",
+        "asignarFamilia": "Asignar Familia",
+        "eliminarPerfil": "Eliminar Perfil",
+        "eliminarHijo": "Eliminar Hijo",
+        "salir": "Salir",
+        "seleccionar": "Seleccionar"
+    },
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "alerta": "Alerta",
+    "mensaje": {
+        "nombreVacio": "El nombre no puede estar vacío.",
+        "descripcionVacia": "La descripción no puede estar vacía.",
+        "seleccionVaciaList": "No hay ningun permiso seleccionado.",
+        "seleccionVaciaTree1": "No hay ninguna familia seleccionada.",
+        "seleccionVaciaTree2": "No hay ningun perfil seleccionado.",
+        "noEsPerfil": "El seleccionado del treeview no es un perfil.",
+        "noEsFamilia": "El seleccionado no es una familia",
+        "seguroEliminar": "Seguro desea eliminar el perfil?",
+        "EsPerfil": "El seleccionado es un perfil.",
+        "noEsHijoDirecto": "El seleccionado no es hijo directo.",
+        "seguroEliminarHijo": "Seguro desea eliminar el hijo?",
+        "yaContienePermiso": "El perfil ya contiene el permiso.",
+        "yaAsignadaAPerfil": "No se puede asignar a una familia ya asignada en un perfil.",
+        "yaExiste": "El perfil ya existe.",
+        "perfilCargado": "No se puede eliminar un perfil que esta asignado a un usuario.",
+        "yaContienePermisosDeFamilia": "El perfil ya contiene permisos que posee la familia que se le quiere agregar.",
+        "yaContieneLaFamilia": "El perfil ya contiene la familia que se quiere agregar.",
+        "noASiMismo": "No puede hacer cambios en su Perfil."
+    }
+}

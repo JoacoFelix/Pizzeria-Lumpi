@@ -1,0 +1,96 @@
+{
+    "label": {
+        "nombre": "Nombre:",
+        "apellido": "Apellido:",
+        "login": "Login:",
+        "fechaInicio": "Fecha de Inicio:",
+        "fechaFin": "Fecha de Fin:",
+        "modulo": "Modulo:",
+        "evento": "Evento:",
+        "criticidad": "Criticidad:"
+    },
+    "button": {
+        "limpiar": "Limpiar",
+        "aplicar": "Aplicar",
+        "fecha": "Con Fecha",
+        "salir": "Salir",
+        "imprimir":  "Imprimir"
+    },
+    "mensaje": {
+        "logueado": "Ya hay una sesión iniciada",
+        "bloquear": "Se bloqueó el usuario:",
+        "bloqueado": "Usuario bloqueado",
+        "desactivado": "Usuario desactivado",
+        "grillaVacia": "No hay nada en la grilla",
+        "fechamal": "La fecha de inicio no puede ser mayor a la de fin",
+        "noHayEvento": "No hay ningun evento que coincida con los filtros."
+    },
+    "datagridview": {
+        "columna": {
+            "login": "Login",
+            "fechaHora": "Fecha y Hora",
+            "modulo": "Modulo",
+            "evento": "Evento",
+            "criticidad": "Criticidad",
+            "fecha": "Fecha",
+            "hora": "Hora",
+            "reporte": "REPORTE DE EVENTOS"
+        }
+    },
+    "eventos": {
+        "login": "Iniciar Sesión",
+        "logout": "Cerrar Sesión",
+        "generarFactura": "Generar Factura",
+        "registrarCliente": "Registrar Cliente",
+        "eliminarCliente": "Eliminar Cliente",
+        "modificarCliente": "Modificar Cliente",
+        "registrarUsuario": "Registrar Usuario",
+        "modificarUsuario": "Modificar Usuario",
+        "crearPerfil": "Generar Perfil",
+        "crearFamilia": "Generar Familia",
+        "generarOrdenCompra": "Generar Orden de Compra",
+        "eliminarSolicitud": "Eliminar Solicitud de Presupuesto",
+        "pagarOrden": "Pagar Orden de Compra",
+        "eliminarOrden": "Eliminar Orden de Compra",
+        "preRegistrarProveedor": "PreRegistrar Proveedor",
+        "agregrarProductoAProv": "Agregar Producto a Proveedor",
+        "eliminarProductoAProv": "Eliminar producto a Proveedor",
+        "registrarRecepcion": "Registrar Recepcion de Mercaderia",
+        "generarSolicitudPresupuesto": "Generar Solicitud de Presupuesto",
+        "registrarProveedor": "Registrar Proveedor",
+        "eliminarProveedor": "Eliminar Proveedor",
+        "modificarProveedor": "Modificar Proveedor",
+        "registrarProducto": "Registrar Producto",
+        "eliminarProducto": "Eliminar Producto",
+        "modificarProducto": "Modificar Producto",
+        "eliminarFamilia": "Eliminar Familia",
+        "eliminarPerfil": "Eliminar Perfil",
+        "backUp": "BackUp",
+        "restore": "Restore"
+    },
+    "modulos": {
+        "usuarios": "Usuarios",
+        "maestros": "Maestros",
+        "admin": "Admin",
+        "ventas": "Ventas",
+        "compras": "Compras"
+    },
+
+    "messagebox": {
+        "titulo": {
+            "Error": "Error"
+        },
+        "mensaje": {
+            "iniciandoSesion": "Iniciando Sesión...",
+            "invalid_username": "Usuario no encontrado",
+            "invalid_password": "Contraseña incorrecta",
+            "user_bloqued": "Usuario bloqueado",
+            "user_disabled": "Usuario deshabilitado"
+        },
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+
+    }
+}

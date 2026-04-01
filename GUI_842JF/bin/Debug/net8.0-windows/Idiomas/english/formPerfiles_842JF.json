@@ -1,0 +1,47 @@
+{
+    "label": {
+        "permisos": "Permissions",
+        "familias": "Families:",
+        "nombre": "Name:",
+        "descripcion": "Description",
+        "perfil": "Profiles",
+        "familiaSeleccionada": "Selected Family:",
+        "perfilSeleccionado": "Selected Profile:"
+    },
+    "button": {
+        "generarPerfil": "Create Profile",
+        "asignarPermiso": "Assign Permission",
+        "asignarFamilia": "Assign Family",
+        "eliminarPerfil": "Delete Profile",
+        "eliminarHijo": "Remove Child",
+        "salir": "Exit",
+        "seleccionar": "Select"
+    },
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    },
+    "alerta": "Alert",
+    "mensaje": {
+        "nombreVacio": "The name cannot be empty.",
+        "descripcionVacia": "The description cannot be empty.",
+        "seleccionVaciaList": "No permission selected.",
+        "seleccionVaciaTree1": "No family selected.",
+        "seleccionVaciaTree2": "No profile selected.",
+        "noEsPerfil": "The selected item in the treeview is not a profile.",
+        "noEsFamilia": "The selected item is not a family.",
+        "seguroEliminar": "Are you sure you want to delete the profile?",
+        "EsPerfil": "The selected item is a profile.",
+        "noEsHijoDirecto": "The selected item is not a direct child.",
+        "seguroEliminarHijo": "Are you sure you want to remove the child?",
+        "yaContienePermiso": "The profile already contains the permission.",
+        "yaAsignadaAPerfil": "Cannot assign a family already assigned to another profile.",
+        "yaExiste": "The profile already exists.",
+        "perfilCargado": "You cannot delete a profile that is assigned to a user.",
+        "yaContienePermisosDeFamilia": "The profile already contains permissions held by the family you are trying to add.",
+        "yaContieneLaFamilia": "The profile already contains the family you are trying to add.",
+        "noASiMismo": "You cannot make changes to your own profile."
+    }
+}

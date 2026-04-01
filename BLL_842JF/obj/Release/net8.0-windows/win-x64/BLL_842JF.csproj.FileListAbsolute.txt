@@ -1,0 +1,38 @@
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\BLL_842JF.deps.json
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\BLL_842JF.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\BLL_842JF.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\BE_842JF.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\DAL_842JF.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\Servicios_842JF.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\BE_842JF.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\DAL_842JF.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\Servicios_842JF.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.csproj.AssemblyReference.cache
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.AssemblyInfoInputs.cache
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.AssemblyInfo.cs
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.csproj.CoreCompileInputs.cache
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.csproj.Up2Date
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\refint\BLL_842JF.dll
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.pdb
+C:\Users\liset\OneDrive\Escritorio\Joaco Uai\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\ref\BLL_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\BLL_842JF.deps.json
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\BLL_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\BLL_842JF.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\BE_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\DAL_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\Servicios_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\BE_842JF.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\DAL_842JF.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\bin\Release\net8.0-windows\win-x64\Servicios_842JF.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.csproj.AssemblyReference.cache
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.AssemblyInfoInputs.cache
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.AssemblyInfo.cs
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.csproj.CoreCompileInputs.cache
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.csproj.Up2Date
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\refint\BLL_842JF.dll
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\BLL_842JF.pdb
+D:\UAI\Tercer Año\Segundo Cuatrimestre\Trabajo de Diploma\Proyecto\Proyecto Ingenieria de Software\BLL_842JF\obj\Release\net8.0-windows\win-x64\ref\BLL_842JF.dll

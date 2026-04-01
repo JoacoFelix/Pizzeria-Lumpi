@@ -1,0 +1,69 @@
+{
+    "label": {
+        "lblDNI": "ID Number",
+        "lblNombre": "First Name:",
+        "lblApellido": "Last Name:",
+        "lblTelefono": "Phone",
+        "lblMail": "Email",
+        "lblMensaje": "Message"
+    },
+
+    "button": {
+        "btnCrear": "Add",
+        "btnModificar": "Edit",
+        "btnEliminar": "Delete",
+        "btnAplicar": "Apply",
+        "btnCancelar": "Cancel",
+        "btnSalir": "Exit",
+        "btnSerializar": "Serialize",
+        "btnDeserializar": "Deserialize",
+        "btnRefrescar": "Refresh Grid from DB",
+        "btnEncriptado": "Encrypted Email",
+        "btnDesencriptado": "Decrypted Email"
+    },
+
+    "textbox": {
+        "modo": {
+            "consulta": "Query Mode.",
+            "crear": "Add User Mode.",
+            "modificar": "Edit User Mode.",
+            "eliminar": "Delete User Mode."
+        }
+    },
+
+    "datagridview": {
+        "columna": {
+            "DNI": "ID Number",
+            "nombre": "First Name",
+            "apellido": "Last Name",
+            "usuario": "User",
+            "telefono": "Phone",
+            "mail": "Email",
+            "activo": "Active"
+        }
+    },
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    },
+
+    "alerta": "Alert",
+
+    "mensaje": {
+        "dniNoValido": "Invalid ID number.",
+        "dniRepetido": "Duplicate ID number.",
+        "camposVacios": "All fields are required.",
+        "digitos": "Name and last name cannot contain digits.",
+        "letrasTelefono": "Phone number cannot contain letters.",
+        "mailInvalido": "Invalid email.",
+        "mailRepetido": "Duplicate email.",
+        "seleccionVacia": "No selection made.",
+        "seguroEliminar": "Are you sure you want to delete the client?",
+        "eliminado": "User deleted successfully.",
+        "exitoXML": "Serialization completed successfully.",
+        "listaVacia": "No clients loaded."
+    }
+}

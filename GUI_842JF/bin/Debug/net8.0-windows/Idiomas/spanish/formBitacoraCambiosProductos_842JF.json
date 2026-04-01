@@ -1,0 +1,94 @@
+{
+    "label": {
+        "nombre": "Nombre:",
+        "codProducto": "Código del Producto:",
+        "fechaInicio": "Fecha de Inicio:",
+        "fechaFin": "Fecha de Fin:"
+    },
+    "button": {
+        "limpiar": "Limpiar",
+        "aplicar": "Aplicar",
+        "fecha": "Con Fecha",
+        "salir": "Salir",
+        "activar": "Activar"
+    },
+    "mensaje": {
+        "logueado": "Ya hay una sesión iniciada",
+        "bloquear": "Se bloqueó el usuario:",
+        "activado": "Se activo el registro.",
+        "desactivado": "Usuario desactivado",
+        "grillaVacia": "No hay nada en la grilla",
+        "fechamal": "La fecha de inicio no puede ser mayor a la de fin",
+        "noHayCambio": "No hay ningun cambio que coincida con los filtros.",
+        "yaActivo": "Este registro ya está activo."
+    },
+    "datagridview": {
+        "columna": {
+            "codProd": "codProd",
+            "fecha": "Fecha",
+            "nombre": "Nombre",
+            "cantidad": "Cantidad",
+            "descripcion": "Descripcion",
+            "activo": "Activo",
+            "disponible": "Disponible",
+            "precioCompra": "Precio de Compra",
+            "medida": "Medida"
+        }
+    },
+    "eventos": {
+        "login": "Iniciar Sesi�n",
+        "logout": "Cerrar Sesi�n",
+        "generarFactura": "Generar Factura",
+        "registrarCliente": "Registrar Cliente",
+        "eliminarCliente": "Eliminar Cliente",
+        "modificarCliente": "Modificar Cliente",
+        "registrarUsuario": "Registrar Usuario",
+        "modificarUsuario": "Modificar Usuario",
+        "crearPerfil": "Generar Perfil",
+        "crearFamilia": "Generar Familia",
+        "generarOrdenCompra": "Generar Orden de Compra",
+        "eliminarSolicitud": "Eliminar Solicitud de Presupuesto",
+        "pagarOrden": "Pagar Orden de Compra",
+        "eliminarOrden": "Eliminar Orden de Compra",
+        "preRegistrarProveedor": "PreRegistrar Proveedor",
+        "agregrarProductoAProv": "Agregar Producto a Proveedor",
+        "eliminarProductoAProv": "Eliminar producto a Proveedor",
+        "registrarRecepcion": "Registrar Recepcion de Mercaderia",
+        "generarSolicitudPresupuesto": "Generar Solicitud de Presupuesto",
+        "registrarProveedor": "Registrar Proveedor",
+        "eliminarProveedor": "Eliminar Proveedor",
+        "modificarProveedor": "Modificar Proveedor",
+        "registrarProducto": "Registrar Producto",
+        "eliminarProducto": "Eliminar Producto",
+        "modificarProducto": "Modificar Producto",
+        "eliminarFamilia": "Eliminar Familia",
+        "eliminarPerfil": "Eliminar Perfil",
+        "backUp": "BackUp",
+        "restore": "Restore"
+    },
+    "modulos": {
+        "usuarios": "Usuarios",
+        "maestros": "Maestros",
+        "admin": "Admin",
+        "ventas": "Ventas",
+        "compras": "Compras"
+    },
+
+    "messagebox": {
+        "titulo": {
+            "Error": "Error"
+        },
+        "mensaje": {
+            "iniciandoSesion": "Iniciando Sesi�n...",
+            "invalid_username": "Usuario no encontrado",
+            "invalid_password": "Contrase�a incorrecta",
+            "user_bloqued": "Usuario bloqueado",
+            "user_disabled": "Usuario deshabilitado"
+        },
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+
+    }
+}

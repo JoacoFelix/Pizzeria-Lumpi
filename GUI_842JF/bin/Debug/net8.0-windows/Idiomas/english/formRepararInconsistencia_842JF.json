@@ -1,0 +1,26 @@
+{
+    "label": {
+        "lblInconsistencia": "DATABASE INCONSISTENCY",
+        "lblTablas": "Altered Table/s:"
+    },
+
+    "button": {
+        "btnRecalcular": "Recalculate DV",
+        "btnRestore": "Restore",
+        "btnSalir": "Exit"
+    },
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    },
+    "alerta": "Alert",
+    "mensaje": {
+        "selVaciaRes": "No path specified.",
+        "exitoRestore": "The restore was successfully completed.",
+        "errorRestore": "The restore could not be done due to an error.",
+        "seRecalculo": "The check digit was successfully recalculated.",
+        "noSeReparo": "The inconsistency could not be repaired, logging out..."
+    }
+}

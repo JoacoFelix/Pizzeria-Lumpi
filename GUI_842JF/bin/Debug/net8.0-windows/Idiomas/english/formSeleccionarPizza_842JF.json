@@ -1,0 +1,18 @@
+{
+    "label": {
+        "lblMuzza": "Mozzarella",
+        "lblJamon": "Ham",
+        "lblJyM": "Ham and Bell Pepper",
+        "lblFuga": "Fugazzetta",
+        "lblJCyR": "Prosciutto and Arugula",
+        "lblEspecial": "Special",
+        "lblPrecio": "Price:"
+    },
+    "button": {
+        "btnAnadir": "Add",
+        "btnGuardar": "Save",
+        "btnCancelar": "Cancel",
+        "btnBorrar": "Delete"
+    },
+    "mensaje": "No item selected."
+}

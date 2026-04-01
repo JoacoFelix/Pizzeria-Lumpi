@@ -1,0 +1,28 @@
+{
+    "label": {
+        "lblContrasenaActual": "Current password:",
+        "lblNuevaContrasena": "New password:",
+        "lblConfirmarContrasena": "Confirm password:"
+    },
+    "button": {
+        "btnCambiar": "Change",
+        "btnCancelar": "Cancel"
+    },
+    "checkbox": {
+        "chkMostrarContrasena": "Show"
+    },
+    "mensaje": {
+        "contraActualIncorrecta": "Current password is incorrect",
+        "contrasenasDistintas": "New passwords do not match",
+        "mismaContra": "You cannot use the same password",
+        "seguro": "Are you sure you want to change the password?",
+        "alerta": "Warning",
+        "exito": "Password changed successfully"
+    },
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    }
+}

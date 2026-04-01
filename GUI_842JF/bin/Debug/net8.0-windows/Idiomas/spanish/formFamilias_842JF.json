@@ -1,0 +1,50 @@
+{
+    "label": {
+        "permisos": "Permisos",
+        "familias": "Familias:",
+        "nombre": "Nombre:",
+        "descripcion": "Descripción",
+        "seleccionadoFamilia": "Familia Seleccionada TreeView:",
+        "seleccionadoAAgregar":  "Familia Seleccionada:"
+    },
+    "button": {
+        "generarFamilia": "Generar Familia",
+        "asignarPermiso": "Asignar Permiso",
+        "asignarFamilia": "Asignar Familia",
+        "eliminarFamilia": "Eliminar Familia",
+        "eliminarHijo": "Eliminar Hijo",
+        "salir": "Salir",
+        "seleccionar": "Seleccionar"
+    },
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "alerta": "Alerta",
+    "mensaje": {
+        "nombreVacio": "El nombre no puede estar vacío.",
+        "descripcionVacia": "La descripción no puede estar vacía.",
+        "seleccionVaciaList": "No hay ningun permiso seleccionado.",
+        "seleccionVaciaTree": "No hay ninguna familia seleccionada.",
+        "noEsFamilia": "El seleccionado del treeview no es una familia principal.",
+        "familiaNoSeleccionada": "No hay ninguna familia seleccionada para Añadir.",
+        "seguroEliminar": "Seguro desea eliminar la familia?",
+        "EsFamilia": "El seleccionado es familia principal.",
+        "noEsHijoDirecto": "El seleccionado no es hijo directo.",
+        "seguroEliminarHijo": "Seguro desea eliminar el hijo?",
+        "yaContienePermiso": "La familia ya contiene el permiso.",
+        "yaAsignadaAPerfil": "No se puede asignar a una familia ya asignada en un perfil.",
+        "yaExiste": "La familia ya existe.",
+        "mismaFamilia": "No se puede agregar una familia a si misma.",
+        "yaContienePermisosDeFamilia": "La familia ya contiene permisos que posee la familia que se le quiere agregar.",
+        "yaContieneLaFamilia": "La familia ya contiene la familia que se quiere agregar.",
+        "familiaJerarquia": "Una familia que posee la familia a la que se quiere asignar la familia ya posee permisos que posee la familia que se quiere agregar.",
+        "permisoJerarquia": "Una familia que posee a la familia a la que se quiere asignar el permiso ya posee el permiso que se quiere agregar.",
+        "circular": "La familia que se quiere agregar ya posee la familia base.",
+        "familiasRepetidas": "La familia que se quiere agregar posee una o más familias que posee la base dentro de su jerarquia.",
+        "familiaVacia": "La familia que se quiere agregar no puede estar vacía."
+    }
+}

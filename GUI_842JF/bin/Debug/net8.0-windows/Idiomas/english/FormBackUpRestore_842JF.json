@@ -1,0 +1,18 @@
+{
+    "label": {
+        "lblBkUp": "Backup Path",
+        "lblRestore": "Restore Path"
+    },
+    "button": {
+        "aceptar": "Accept",
+        "salir": "Exit"
+    },
+    "msg": {
+        "exitoBackUp": "Backup completed successfully",
+        "errorBkUp": "Backup failed due to an error",
+        "selVaciaBak": "You must select a location",
+        "exitoRestore": "Restore completed successfully",
+        "errorRestore": "Restore failed due to an error",
+        "selVaciaRes": "You must select a .bak file"
+    }
+}

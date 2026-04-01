@@ -1,0 +1,36 @@
+{
+    "label": {
+        "lblUsuario": "Username:",
+        "lblContrasena": "Password:"
+    },
+    "button": {
+        "btnIngresar": "Login",
+        "btnCancelar": "Cancel"
+    },
+    "checkbox": {
+        "chkVerContrasena": "Show Password"
+    },
+    "mensaje": {
+        "logueado": "A session is already active",
+        "bloquear": "User has been blocked:",
+        "bloqueado": "User blocked",
+        "desactivado": "User deactivated"
+    },
+    "messagebox": {
+        "titulo": {
+            "Error": "Error"
+        },
+        "mensaje": {
+            "iniciandoSesion": "Logging in...",
+            "invalid_username": "User not found",
+            "invalid_password": "Incorrect password",
+            "user_bloqued": "User blocked",
+            "user_disabled": "User disabled",
+            "inconsistenciaBD": "Database error, the system cannot be used, notify the administrator."
+        },
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    }
+}

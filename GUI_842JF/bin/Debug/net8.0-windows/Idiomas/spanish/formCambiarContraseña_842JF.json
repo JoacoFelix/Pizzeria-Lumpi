@@ -1,0 +1,29 @@
+{
+    "label": {
+        "lblContrasenaActual": "Contraseña actual:",
+        "lblNuevaContrasena": "Contraseña nueva:",
+        "lblConfirmarContrasena": "Confirmar contraseña:"
+    },
+    "button": {
+        "btnCambiar": "Cambiar",
+        "btnCancelar": "Cancelar"
+    },
+    "checkbox": {
+        "chkMostrarContrasena": "Mostrar"
+    },
+    "mensaje": {
+        "contraActualIncorrecta": "Contraseña actual incorrecta",
+        "contrasenasDistintas": "No hay coincidencia en las contraseñas nuevas",
+        "mismaContra": "No puede poner la misma contraseña",
+        "seguro": "Seguro que desea cambiar la contraseña?",
+        "alerta": "Alerta",
+        "exito":  "Se cambio la contrase�a correctamente"
+
+    },
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    }
+}

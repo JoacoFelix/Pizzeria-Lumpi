@@ -1,0 +1,40 @@
+{
+    "label": {
+        "lblBuscar": "Search Order by DNI",
+        "venta": "Sale",
+        "eventoGenerarFac": "Generate Invoice"
+    },
+    "button": {
+        "btnCobrar": "Charge",
+        "btnCancelar": "Cancel Order",
+        "btnSalir": "Exit"
+    },
+    "mensaje": {
+        "cancelado": "Order canceled.",
+        "noHay": "No orders available",
+        "numero": "Number:",
+        "cliente": "Customer:",
+        "fecha": "Date and Time:",
+        "medioDePago": "Payment Method",
+        "total": "Total:",
+        "totalSinIva": "Total without VAT:",
+        "facGen": "Invoice Generated",
+        "pizzas": "Pizzas:"
+    },
+    "alerta": "Alert",
+    "messagebox": {
+        "button": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        }
+    },
+    "datagridview": {
+        "columna": {
+            "numero": "Order Number",
+            "cliente": "Customer",
+            "estado": "Status",
+            "total": "Total",
+            "pago": "Payment"
+        }
+    }
+}

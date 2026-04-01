@@ -1,0 +1,51 @@
+{
+    "label": {
+        "lblClientes": "Clientes",
+        "lblBuscarCliente": "Buscar cliente por DNI"
+    },
+    "button": {
+        "btnAsignar": "Asignar",
+        "btnCancelar": "Cancelar",
+        "btnRegistrarCliente": "Registrar nuevo cliente",
+        "btnSalir": "Salir",
+        "btnSeleccionar": "Seleccionar Pizzas"
+    },
+
+    "mensaje": {
+        "totSinIva": "Total sin iva:",
+        "total": "Total:",
+        "confirmar": "Confirmar Pedido",
+        "confirmado": "Pedido confirmado.",
+        "cancelado": "Pedido cancelado.",
+        "seleccionVacia": "No hay pizzas seleccionadas.",
+        "clienteVacio": "No hay cliente seleccionado.",
+        "noHayCliente": "No hay ningun cliente",
+        "noHayQueso": "No hay sufuciente Muzzarella",
+        "noHayJamon": "No hay sufuciente Jamón",
+        "noHayOregano": "No hay suficiente Orégano",
+        "noHayHarina": "No hay sufuciente Harina",
+        "noHayJamonCrudo": "No hay sufuciente Jamón Crudo",
+        "noHayMorron": "No hay sufuciente Morrón",
+        "noHayCebolla": "No hay sufuciente Cebolla",
+        "noHayAceituna": "No hay sufucientes Aceitunas",
+        "noHayRucula": "No hay sufuciente Rúcula",
+        "noHaySalsa": "No hay sufuciente Salsa"
+    },
+    "datagridview": {
+        "columna": {
+            "DNI": "DNI",
+            "nombre": "Nombre",
+            "apellido": "Apellido",
+            "mail": "Mail",
+            "telefono": "Teléfono"
+        }
+    },
+    "alerta": "Alerta",
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    }
+}

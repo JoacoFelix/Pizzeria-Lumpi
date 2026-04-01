@@ -1,0 +1,40 @@
+{
+    "label": {
+        "lblBuscar": "Buscar Pedido por DNI",
+        "venta": "Venta",
+        "eventoGenerarFac": "Generar Factura"
+    },
+    "button": {
+        "btnCobrar": "Cobrar",
+        "btnCancelar": "Cancelar Pedido",
+        "btnSalir": "Salir"
+    },
+    "mensaje": {
+        "cancelado": "Pedido cancelado.",
+        "noHay": "No hay pedidos",
+        "numero": "Número:",
+        "cliente": "Cliente:",
+        "fecha": "Fecha y Hora:",
+        "medioDePago": "Medio de pago",
+        "total": "Total:",
+        "totalSinIva": "Total sin IVA:",
+        "facGen": "Factura Generada",
+        "pizzas": "Pizzas:"
+    },
+    "alerta": "Alerta",
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "datagridview": {
+        "columna": {
+            "numero": "nroPedido",
+            "cliente": "Cliente",
+            "estado": "Estado",
+            "total": "Total",
+            "pago": "Pago"
+        }
+    }
+}

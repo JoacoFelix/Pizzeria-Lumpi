@@ -1,0 +1,79 @@
+{
+    "label": {
+        "lblDNI": "DNI",
+        "lblApellido": "Apellido:",
+        "lblNombre": "Nombre:",
+        "lblRol":  "Rol",
+        "lblMail": "Mail",
+        "lblMensaje":  "Mensaje"
+    },
+
+    "radio": {
+        "rdoActivos": "Activos",
+        "rdoTodos": "Todos"
+    },
+    "combo": {
+        "encargado": "Encargado/a",
+        "admin": "Admin",
+        "cajero": "Cajero"
+    },
+
+    "button": {
+        "btnCrear": "Crear",
+        "btnDesbloquear": "Desbloquear",
+        "btnModificar": "Modificar",
+        "btnActivarDesactivar": "Act./Des.",
+        "btnAplicar": "Aplicar",
+        "btnCancelar": "Cancelar",
+        "btnSalir": "Salir"
+    },
+
+    "textbox": {
+        "modo": {
+            "consulta": "Modo Consulta.",
+            "crear": "Modo Crear Usuario.",
+            "desbloquear": "Modo Desbloquear Usuario.",
+            "modificar": "Modo Modificar Usuario.",
+            "activarDesactivar": "Modo Activar/Desactivar Usuario."
+        }
+    },
+
+    "datagridview": {
+        "columna": {
+            "DNI":  "DNI",
+            "nombre": "Nombre",
+            "apellido": "Apellido",
+            "usuario": "Usuario",
+            "rol":  "Rol",
+            "mail": "Mail",
+            "activo":  "Activo"
+        }
+    },
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "alerta": "Alerta",
+    "mensaje": {
+        "dniNoValido": "DNI inválido.",
+        "dniRepetido": "DNI Repetido.",
+        "camposVacios": "Son obligatorios todos los campos.",
+        "digitos": "No puede haber dígitos ni en el nombre ni en el apellido",
+        "mailInvalido": "Mail inválido",
+        "mailRepetido": "Mail repetido",
+        "seleccionVacia": "No hay nada seleccionado.",
+        "usuarioNoBloqueado": "El usuario no está bloqueado.",
+        "seguroDesbloquear": "Seguro desea desbloquear al usuario?",
+        "desbloqueo": "Se desbloqueo el usuario correctamente",
+        "desactivarSiMismo": "No se puede desactivar a si mismo.",
+        "seguroDesactivar": "Seguro desea desactivar al usuario?",
+        "desactivado": "Se desactivo el usuario correctamente.",
+        "seguroActivar": "Seguro desea activar al usuario?",
+        "activado": "Se activo el usuario correctamente.",
+        "noASiMismo": "No puede modificarse a si mismo.",
+        "superAdmin": "No se puede hacer cambios a un SuperAdmin"
+    }
+}

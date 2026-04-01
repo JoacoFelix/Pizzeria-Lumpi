@@ -1,0 +1,18 @@
+{
+    "label": {
+        "facturas": "Facturas"
+    },
+    "button": {
+        "salir": "Salir"
+    },
+
+    "datagridview": {
+        "columna": {
+            "numero": "nroFactura",
+            "fecha": "Fecha y Hora",
+            "medioDePago": "Estado",
+            "pedido": "nroPedido",
+            "total": "Total"
+        }
+    }
+}

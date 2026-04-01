@@ -1,0 +1,79 @@
+{
+    "label": {
+        "lblCUIT": "CUIT:",
+        "lblNombre": "Nombre:",
+        "lblDireccion": "Dirección:",
+        "lblTelefono": "Teléfono:",
+        "lblProductos": "Productos:",
+        "lblMail": "Mail:",
+        "lblMensaje": "Mensaje"
+    },
+
+    "button": {
+        "btnCrear": "Añadir",
+        "btnModificar": "Modificar",
+        "btnEliminar": "Eliminar",
+        "btnAplicar": "Aplicar",
+        "btnCancelar": "Cancelar",
+        "btnSalir": "Salir",
+        "btnAgregarProd": "Agregar Producto",
+        "btnEliminarProd": "Eliminar Producto"
+    },
+
+    "textbox": {
+        "modo": {
+            "consulta": "Modo Consulta.",
+            "crear": "Modo Añadir Usuario.",
+            "modificar": "Modo Modificar Usuario.",
+            "eliminar": "Modo Eliminar Usuario.",
+            "CompletarDatos": "Modo Completar Datos."
+        }
+    },
+
+    "datagridview": {
+        "columna": {
+            "CUIT": "CUIT",
+            "nombre": "Nombre",
+            "direccion": "Direccion",
+            "estado": "Estado",
+            "telefono": "Teléfono",
+            "mail": "Mail",
+            "activo": "Activo"
+        }
+    },
+
+    "messagebox": {
+        "button": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        }
+    },
+    "alerta": "Alerta",
+    "mensaje": {
+        "cuitNoValido": "CUIT inválido.",
+        "cuitRepetido": "CUIT Repetido.",
+        "nombreRepetido": "Nombre Repetido.",
+        "camposVacios": "Son obligatorios todos los campos.",
+        "digitos": "No puede haber dígitos en el nombre",
+        "letrasTelefono": "No puede haber letras en el teléfono",
+        "mailInvalido": "Mail inválido",
+        "direccionInvalida": "Dirección inválida",
+        "mailRepetido": "Mail repetido",
+        "seleccionVacia": "No hay nada seleccionado.",
+        "seguroEliminar": "Seguro desea eliminar al proveedor?",
+        "eliminado": "Se eliminó el proveedor correctamente.",
+        "modificado": "Se modificó el proveedor correctamente.",
+        "creado": "Se creó el proveedor correctamente.",
+        "solicitudGenerada": "Hay una o más solicitudes de presupuesto generadas a este proveedor.",
+        "ordenGenerada": "Hay una o más ordenes de compra generadas a este proveedor.",
+        "productosVacios": "No hay productos seleccionados.",
+        "productoRepetido": "El proveedor ya posee este producto.",
+        "productoAgregado": "Producto agregado con éxito.",
+        "productoNoEncontrado": "El proveedor no posee este producto.",
+        "ordenEnCurso": "Hay una orden de compra en curso a este proveedor sobre este producto.",
+        "solicitudRealizada": "Hay una solicitud de presupuesto en curso a este proveedor sobre este producto.",
+        "productoEliminado": "Se eliminó el producto correctamente.",
+        "completeDatos": "Complete los datos del Proveedor para poder registrarlo.",
+        "seCompletaronDatos": "Se completaron los datos del Proveedor correctamente."
+    }
+}

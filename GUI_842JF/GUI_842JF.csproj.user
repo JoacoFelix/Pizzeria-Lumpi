@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormBackUpRestore_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formBitacoraCambiosProducto_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formBitacoraEventos_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCambiarContraseña_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formClientes_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formCobrar_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formFacturas_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formFamilias_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formGenerarFactura_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formGenerarOrdenDeCompra_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenu_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formOrdenesDeCompra_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formPedido_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formPreRegistrarProveedor_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPrincipal_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formProductos_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formRealizarPago_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formRegistrarCliente_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formRegistrarProveedor_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formRegistrarRecepcion_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formRepararInconsistencia_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formSeleccionarPizza_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formSolicitarPresupuesto_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formUsuarios_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formPerfiles_842JF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
